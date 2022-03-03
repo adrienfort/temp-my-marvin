@@ -5,7 +5,7 @@
 ## build project
 ##
 
-CRUD_SRC	=	sources/crud/game_crud.c 					\
+CRUD_SRC	=		sources/crud/game_crud.c 					\
 					sources/crud/game_display.c
 
 ERRORS_SRC 		=	sources/errors_handler/manage_returned_value.c
